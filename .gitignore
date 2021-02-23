@@ -1,0 +1,6 @@
+.project
+.gradle/*
+.idea/*
+.vscode/*
+build/*
+src/main/.DS_Store
