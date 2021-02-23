@@ -1,8 +1,9 @@
-package com.example.demoApp;
+package com.example.demoapp;
 
-import jakarta.servlet.annotation.*;
-import jakarta.servlet.http.*;
-
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
